@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 5afdce1285f6fb747a7902f41af175f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672d54eb7dd618d4fa09376f5b861549
+      internalID: -1152607929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a03581b46980e4db4c3dc80aee41ac
+      internalID: -97844962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac709474fe5796040b74e6b37f6d9bf6
+      internalID: 1286045394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec39bf4f40bad843865d584ed8c9848
+      internalID: 1958927772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e9cdeb01259ba4589e6d057385d1ea
+      internalID: 1141188308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daef6791781b8746beef03eafa91809
+      internalID: -1841086354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07068931e1a9294c90fc98ba4dbe28f
+      internalID: -484259509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f492580565a2d346b6a6e68901f047b
+      internalID: 1854184323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b093c5a1d575fe549be94d03665bde88
+      internalID: 1872877713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f43fb3086263740ad5d138215ecf4d
+      internalID: -926767456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0dbff3a20a3eb4281c7812cc7969c7
+      internalID: 965905421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c31d874f93bc4b4fadffcbf649209d8
+      internalID: -478203248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4383ec0b080f7a54aa2353857ce4d4d4
+      internalID: 1387066017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850adfdbd0d09384c96449c1a21c5f76
+      internalID: 1771716259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc705a953c83f409943c1f54229da9
+      internalID: -236883356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33af28d7c34d88844b31b4cb313d4d4c
+      internalID: -967214388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f42e84bac5aec54eb2027c8b09c2dbc
+      internalID: -2146608112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd9355fc17d034fa6c8b51902de3cd
+      internalID: 823186437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d2a8305d2b5584a9806f01e44bd8f5
+      internalID: 1125534913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454b554f8a2e454fae3aea208e1d1a0
+      internalID: 1821180112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe1e5dd973b6147af166ca4a9b0c0a
+      internalID: 776792021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfb63d79c85f442b1f6295cc51dbd0
+      internalID: -397766138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4492e671539dd48bfbcdb6f5f4be32
+      internalID: -1795290133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe56a85f4f0733c4ea993b13bf24085e
+      internalID: 1780461050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec6f906ce87fcc469541404cda43d9e
+      internalID: 855709266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f943bbfe153dbcd4986a139350128b67
+      internalID: 1059928754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa2c9aa6cf44e47bef460dda31c1f4
+      internalID: -1245348620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33638d9615b8f9d4bb7b3baa7660e978
+      internalID: 1700855126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c174e3431699e1438949982ba71200d
+      internalID: 275492339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8804613468bdd47a8a2ee96e131cde
+      internalID: -749158206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e43ff431f7f6d4fbca1b578bd1dd05
+      internalID: -1729578008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45979011c7cad4043ad717d8a7c1d081
+      internalID: 1570466501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442bd5ca75517240b1dcb5c24b9125a
+      internalID: 99693821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d76f7fb5fc58348905d7c30758223e
+      internalID: 894298587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32c71eb984b974fa44e434f4bb0f79
+      internalID: 663065615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e402dee0a55771648bbdc34ffe9d7ffe
+      internalID: 1430255579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569b0477d48fd2041b774b1f5a9b185a
+      internalID: -717905460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82256a9da068d74c81e81b85694ff30
+      internalID: -930090554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ff7b1bffa24d747a590e24de4aa90d
+      internalID: -159136366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87d9efd8b16cf242a08a26c803e2052
+      internalID: 435238493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb6be42fe8d7f34ca4861d0725737d3
+      internalID: -1928907288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39000177a64fdbf459526e11c2fb3fb4
+      internalID: 335664080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b62b09da552ba47a6863b84544bb14
+      internalID: 934245580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed83815e566dd940941b4c148a2d11f
+      internalID: 1099727336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a623795571cac4892016e52f5cb86b
+      internalID: 1655531110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43120adb359afdf45ab084ee6432bb03
+      internalID: 226334352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04690001b683b3f44ae2fc395fd49cd5
+      internalID: 1567935482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cdf35e8bb205a42b58c4f2eb91fd9d
+      internalID: -2092812397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178c513e04a219343b694ad180906238
+      internalID: 870762858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c0220ac67f7c540897bf3be70272d8
+      internalID: -508428621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0101b1cd24ae534ba212c9b855976a3
+      internalID: 244705158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1bfffc9327b34e9dd49a114dbbacd
+      internalID: 1615472933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9700e5750fbb43832cb186c1c31aa
+      internalID: -1874079214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648fc33aaab51ce48824c8aa758da41c
+      internalID: -1518899461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd1283d32181a04bb3713fbfe3079a6
+      internalID: 1507325696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1973106f8932024a9b69edb1a2ce3d6
+      internalID: -1021251915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c0ab27217efb94589ff34c7f4dfd55
+      internalID: -1697555126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e784e6b0635218479f7855cafa288f4
+      internalID: 870942843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08a7baa6b2dd94e8fdf01af737b9df
+      internalID: -1419740607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_59
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef542f1c5ceaf44fa1c63c79a9eec0f
+      internalID: -1328688039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d6f707e136a30449da263130e9e3ec
+      internalID: 1162738532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a8da599b87b4e41bc59c9f1aa7cfa7
+      internalID: 221988939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816c714801e6c92408572c781f537f95
+      internalID: 687659289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_24: 855709266
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_7: 1854184323
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_55: -1021251915
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_37: -930090554
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_16: -2146608112
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_61: 221988939
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_32: 99693821
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_54: 1507325696
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_36: -717905460
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_42: 934245580
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_33: 894298587
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_4: 1141188308
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_5: -1841086354
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_14: -236883356
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_1: -97844962
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_59: -1328688039
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_52: -1874079214
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_10: 965905421
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_60: 1162738532
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_62: 687659289
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_44: 1655531110
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_48: 870762858
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_57: 870942843
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_3: 1958927772
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_18: 1125534913
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_19: 1821180112
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_17: 823186437
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_43: 1099727336
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_50: 244705158
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_31: 1570466501
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_29: -749158206
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_12: 1387066017
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_47: -2092812397
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_20: 776792021
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_22: -1795290133
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_26: -1245348620
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_51: 1615472933
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_53: -1518899461
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_23: 1780461050
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_6: -484259509
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_35: 1430255579
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_15: -967214388
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_27: 1700855126
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_13: 1771716259
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_8: 1872877713
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_30: -1729578008
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_34: 663065615
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_25: 1059928754
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_41: 335664080
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_11: -478203248
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_56: -1697555126
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_38: -159136366
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_39: 435238493
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_0: -1152607929
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_2: 1286045394
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_28: 275492339
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_45: 226334352
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_21: -397766138
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_49: -508428621
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_40: -1928907288
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_58: -1419740607
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_9: -926767456
+      png-clipart-the-legend-of-zelda-link-sprite-2d-computer-graphics-unity-animation-sprite-game-3d-computer-graphics_46: 1567935482
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
